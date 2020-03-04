@@ -1,0 +1,15 @@
+E:\docs\files\programacion\practica\Proyectos\examen tecnico\ParaSistemasPlenario\WinForm2\Guseva_Marina\Datos\bin\Debug\Datos.dll.config
+E:\docs\files\programacion\practica\Proyectos\examen tecnico\ParaSistemasPlenario\WinForm2\Guseva_Marina\Datos\bin\Debug\Datos.dll
+E:\docs\files\programacion\practica\Proyectos\examen tecnico\ParaSistemasPlenario\WinForm2\Guseva_Marina\Datos\bin\Debug\Datos.pdb
+E:\docs\files\programacion\practica\Proyectos\examen tecnico\ParaSistemasPlenario\WinForm2\Guseva_Marina\Datos\bin\Debug\EntityFramework.dll
+E:\docs\files\programacion\practica\Proyectos\examen tecnico\ParaSistemasPlenario\WinForm2\Guseva_Marina\Datos\bin\Debug\EntityFramework.SqlServer.dll
+E:\docs\files\programacion\practica\Proyectos\examen tecnico\ParaSistemasPlenario\WinForm2\Guseva_Marina\Datos\bin\Debug\Modelos.dll
+E:\docs\files\programacion\practica\Proyectos\examen tecnico\ParaSistemasPlenario\WinForm2\Guseva_Marina\Datos\bin\Debug\Modelos.pdb
+E:\docs\files\programacion\practica\Proyectos\examen tecnico\ParaSistemasPlenario\WinForm2\Guseva_Marina\Datos\bin\Debug\Modelos.dll.config
+E:\docs\files\programacion\practica\Proyectos\examen tecnico\ParaSistemasPlenario\WinForm2\Guseva_Marina\Datos\bin\Debug\EntityFramework.xml
+E:\docs\files\programacion\practica\Proyectos\examen tecnico\ParaSistemasPlenario\WinForm2\Guseva_Marina\Datos\bin\Debug\EntityFramework.SqlServer.xml
+E:\docs\files\programacion\practica\Proyectos\examen tecnico\ParaSistemasPlenario\WinForm2\Guseva_Marina\Datos\obj\Debug\Datos.csprojAssemblyReference.cache
+E:\docs\files\programacion\practica\Proyectos\examen tecnico\ParaSistemasPlenario\WinForm2\Guseva_Marina\Datos\obj\Debug\Datos.csproj.CoreCompileInputs.cache
+E:\docs\files\programacion\practica\Proyectos\examen tecnico\ParaSistemasPlenario\WinForm2\Guseva_Marina\Datos\obj\Debug\Datos.csproj.CopyComplete
+E:\docs\files\programacion\practica\Proyectos\examen tecnico\ParaSistemasPlenario\WinForm2\Guseva_Marina\Datos\obj\Debug\Datos.dll
+E:\docs\files\programacion\practica\Proyectos\examen tecnico\ParaSistemasPlenario\WinForm2\Guseva_Marina\Datos\obj\Debug\Datos.pdb

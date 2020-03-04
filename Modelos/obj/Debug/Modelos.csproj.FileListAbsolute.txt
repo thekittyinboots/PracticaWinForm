@@ -1,0 +1,12 @@
+E:\docs\files\programacion\practica\Proyectos\examen tecnico\ParaSistemasPlenario\WinForm2\Guseva_Marina\Modelos\bin\Debug\Modelos.dll.config
+E:\docs\files\programacion\practica\Proyectos\examen tecnico\ParaSistemasPlenario\WinForm2\Guseva_Marina\Modelos\bin\Debug\Modelos.dll
+E:\docs\files\programacion\practica\Proyectos\examen tecnico\ParaSistemasPlenario\WinForm2\Guseva_Marina\Modelos\bin\Debug\Modelos.pdb
+E:\docs\files\programacion\practica\Proyectos\examen tecnico\ParaSistemasPlenario\WinForm2\Guseva_Marina\Modelos\bin\Debug\EntityFramework.dll
+E:\docs\files\programacion\practica\Proyectos\examen tecnico\ParaSistemasPlenario\WinForm2\Guseva_Marina\Modelos\bin\Debug\EntityFramework.SqlServer.dll
+E:\docs\files\programacion\practica\Proyectos\examen tecnico\ParaSistemasPlenario\WinForm2\Guseva_Marina\Modelos\bin\Debug\EntityFramework.xml
+E:\docs\files\programacion\practica\Proyectos\examen tecnico\ParaSistemasPlenario\WinForm2\Guseva_Marina\Modelos\bin\Debug\EntityFramework.SqlServer.xml
+E:\docs\files\programacion\practica\Proyectos\examen tecnico\ParaSistemasPlenario\WinForm2\Guseva_Marina\Modelos\obj\Debug\Modelos.csprojAssemblyReference.cache
+E:\docs\files\programacion\practica\Proyectos\examen tecnico\ParaSistemasPlenario\WinForm2\Guseva_Marina\Modelos\obj\Debug\Modelos.csproj.CoreCompileInputs.cache
+E:\docs\files\programacion\practica\Proyectos\examen tecnico\ParaSistemasPlenario\WinForm2\Guseva_Marina\Modelos\obj\Debug\Modelos.csproj.CopyComplete
+E:\docs\files\programacion\practica\Proyectos\examen tecnico\ParaSistemasPlenario\WinForm2\Guseva_Marina\Modelos\obj\Debug\Modelos.dll
+E:\docs\files\programacion\practica\Proyectos\examen tecnico\ParaSistemasPlenario\WinForm2\Guseva_Marina\Modelos\obj\Debug\Modelos.pdb
